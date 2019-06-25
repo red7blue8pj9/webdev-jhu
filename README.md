@@ -1,6 +1,10 @@
-# Development Environment Setup
+# README
 
-Install Git, browser-sync, nodeJs
+Self-learning project: web development (Coursera John Hopkins Unviersity)
 
-Github and browser-sync
+
+
+### Environment Setup
+
+Install Git, browser-sync, nodeJS
 
